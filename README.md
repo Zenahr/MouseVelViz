@@ -1,5 +1,9 @@
 # MouseVelViz - Mouse Velocity Visualizer
 
+# Demonstration
+
+[YouTube Video](https://youtu.be/fcy1u2AIUw0)
+
 # Usage
 
 1. Download the executable [here]().
