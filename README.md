@@ -6,7 +6,7 @@
 
 # Usage
 
-1. Download the executable [here]().
+1. Download the executable [here](https://github.com/Zenahr/MouseVelViz/releases/download/v1.0.0/MouseVelViz.exe).
 2. start your game
 3. start MouseVelViz
 4. In OBS/StreamlabsOBS add a new `window capture source`
