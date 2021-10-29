@@ -1,5 +1,9 @@
 # MouseVelViz - Mouse Velocity Visualizer
 
+# Planned
+
+- [] Add Source Code (needs cleanup first)
+
 # Demonstration
 
 [YouTube Video](https://youtu.be/fcy1u2AIUw0)
