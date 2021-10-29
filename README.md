@@ -2,7 +2,7 @@
 
 # Planned
 
-- [] Add Source Code (needs cleanup first)
+- Add Source Code (needs cleanup first)
 
 # Demonstration
 
