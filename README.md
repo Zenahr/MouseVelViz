@@ -1,8 +1,8 @@
 # MouseVelViz - Mouse Velocity Visualizer
 
-# Planned
+# Roadmap
 
-- [x] Add Source Code (needs cleanup first)
+- [x] ~~Add Source Code (needs cleanup first)~~
 
 # Demonstration
 
